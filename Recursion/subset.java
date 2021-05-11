@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class GFG {
+class subset {
     public static void main(String args[]) throws IOException {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
