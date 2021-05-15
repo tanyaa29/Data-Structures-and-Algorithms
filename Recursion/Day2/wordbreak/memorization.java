@@ -18,3 +18,4 @@ public class Solution {
         return memo[start] = false;
     }
 }
+//approach2
