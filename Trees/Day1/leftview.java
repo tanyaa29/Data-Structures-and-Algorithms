@@ -1,4 +1,4 @@
-lass Tree
+class Tree
 {
     //Function to return list containing elements of left view of binary tree.
     ArrayList<Integer> leftView(Node root)
